@@ -1,0 +1,27 @@
+.link{
+    text-align: right;
+}
+.head{
+    text-align: center;
+    border: 2px solid greenyellow;
+    color: blue;
+}
+.para{
+    text-align:justify;
+}
+.img1 img{
+    width: 22.6%;
+    height: 200px;
+    box-shadow:-1px 1px 5px 8px rgba(117,108,117,1); 
+    margin: 15px;
+}
+.b {
+    border: 3px solid rgb(23, 250, 11);
+    padding: 10px 15px;
+}
+.container{
+    border: 1px solid black;
+}
+.inner{
+    border: 1px solid red;
+}
